@@ -1,0 +1,16 @@
+1.
+
+https://mock-server-f2z5.onrender.com/luxury
+
+
+2.
+
+https://mock-server-f2z5.onrender.com/candles
+
+3.
+
+https://mock-server-f2z5.onrender.com/dogs
+
+4.
+
+https://mock-server-f2z5.onrender.com/chocgifts
