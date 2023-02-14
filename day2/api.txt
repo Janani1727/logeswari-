@@ -14,3 +14,24 @@ https://mock-server-f2z5.onrender.com/dogs
 4.
 
 https://mock-server-f2z5.onrender.com/chocgifts
+
+
+
+
+
+
+API ----> data fetch 
+
+data map
+
+data display
+
+data append
+
+sorting -> high to low  && low to high
+
+data cart add --> by using local storage
+
+next page la from cart data fetching
+
+delete 
