@@ -1,0 +1,34 @@
+#fetchedData {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin: auto;
+    row-gap: 20px;
+    margin-top: 20px;
+}
+
+#cards {
+    border: 1px solid black;
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+
+}
+
+#btn {
+    margin-left: 600px;
+
+}
+
+#lh {
+    width: 150px;
+    height: 40px;
+    background-color: skyblue;
+    cursor: pointer;
+}
+
+#hl {
+    width: 150px;
+    height: 40px;
+    background-color: skyblue;
+    cursor: pointer;
+}
