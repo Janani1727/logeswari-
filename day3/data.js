@@ -38,6 +38,7 @@ function display(soln){
         //    removeItem(id)
         // }
 
+        
 
         card.append(imag,tit,categ,pric,delbtn)
         container.append(card)

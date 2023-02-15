@@ -41,6 +41,7 @@ function display(soln){
         tit.innerText=el.name
          
     
+        
         let categ=document.createElement("p")
         categ.innerText=el.category
 
