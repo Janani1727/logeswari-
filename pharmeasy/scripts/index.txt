@@ -1,0 +1,102 @@
+
+
+<div class="owl-carousel owl-theme">
+  <div class="carousel-item" id="one1"><img src="https://cdn01.pharmeasy.in/dam/products/159115/shelcal-500mg-strip-of-15-tablets-2-1674482021.jpg?dim=1440x0" style="width: 150px;height: 140px;padding: 30px,40px;margin-left: 20px;" >
+        <h4><b>Shelcal 500mg Strip Of<br>15 Tablets</b></h4>
+        <p>MRP <del>Rs.131.30</del></p>
+      <p> <b>Rs.124.74  <span style="color:red ;">5% OFF</span></b></p>
+      </div>
+    
+
+   
+      <div class="carousel-item" id="two2">
+      <img src="https://cdn01.pharmeasy.in/dam/products_otc/L79986/everherb-karela-jamun-juice-helps-maintains-healthy-sugar-levels-helps-in-weight-management-1l-2-1672136925.jpg?dim=1440x0" style="width: 150px;height: 140px;padding-left: 65px;padding-right: 25px;">
+        <h4><b>Everherb Karela Jamun</em><br>Juice-Helps Maintain...</b></h4>
+        <p>MRP <del>Rs.399.00</del></p>
+        <p> <b>Rs.207.48  <span style="color:red ;">48% OFF</span></b></p>
+    </div> 
+  
+   
+    <div class="carousel-item" id="three3"><img src="https://cdn01.pharmeasy.in/dam/products_otc/I05582/dr-morepen-gluco-one-bg-03-glucometer-test-strips-box-of-50-1-1669655233.jpg?dim=1440x0" style="width: 150px;height: 140px;padding-top: 20px;" >
+      <h4><b>Dr.Morepen Gluco One</em><br>Bg O3 Glucocometer Te...</b></h4>
+      <p>MRP <del>Rs.849.00</del></p>
+      <p> <b>Rs.738.63  <span style="color:red ;">13% OFF</span></b></p>
+    </div>
+   
+  
+   
+  <div class="carousel-item" id="four4"><img src="https://cdn01.pharmeasy.in/dam/products_otc/207833/calcimax-forte-plus-strip-of-30-tablets-2-1671741016.jpg?dim=1440x0" style="width: 150px;height: 140px;padding-top: 25px;padding-bottom: 25px;">
+     <h4><b>Calcimax Forte Plus<br>Strip Of 30 Tablets</b></h4>
+    <p>MRP <del>Rs.285.00</del></p>
+    <p> <b>Rs.245.10  <span style="color:red ;">14% OFF</span></b></p>
+  </div>
+
+
+
+  <div class="carousel-item" id="five5"><img src="https://cdn01.pharmeasy.in/dam/products_otc/K78780/pharmeasy-pill-box-organizer-2-1669349726.jpg?dim=1440x0" style="width: 150px;height: 140px;padding-left: 25px;padding-right: 25px;">
+    <h4><b>Pharmeasy Pill Box<br>Organizer</b></h4>
+    <p>MRP <del>Rs.499.00</del></p>
+    <p><b>Rs.299.40  <span style="color:red ;">40% OFF</span></b></p>
+  </div>
+
+
+
+  <div class="carousel-item" id="six6"><img src="https://cdn01.pharmeasy.in/dam/products_otc/000665/accu-chek-active-glucometer-test-strips-box-of-50-1-1669655023.jpg?dim=1440x0" style="width: 150px;height: 140px;padding-left: 25px;padding-right: 25px;">
+    <h4><b>Accu-chek Active<br>Glucometer Test Strips...</b></h4>
+    <p>MRP Rs.1049.00</p>
+  </div>
+
+
+
+  <div class="carousel-item" id="seven7"><img src="https://cdn01.pharmeasy.in/dam/products_otc/G19614/liveasy-essentials-adhesive-bandages-box-of-100-1-1641791579.jpg?dim=1440x0"style="width: 150px;height: 140px;padding-left: 30px;padding-right: 30px;" >
+    <h4><b>Liveasy Essentials<br>Adhesive Bandages... </b></h4>
+    <p>MRP <del>Rs.199.00</del></p>
+    <p><b>Rs.169.15  <span style="color:red ;">15% OFF</span></b></p>
+  </div>
+
+
+
+  <div class="carousel-item" id="eight8"><img src="https://cdn01.pharmeasy.in/dam/products_otc/149350/refresh-tears-05-bottle-of-10ml-eye-drops-1-1671740741.jpg?dim=1440x0" style="width: 150px;height: 140px;padding-left: 40px;padding-right: 40px;">
+    <h4><b>Refresh Tears 0.5%<br>Bottle Of-10ml Eye...</b></h4>
+    <p>MRP Rs.158.78</p>
+  </div>
+
+
+
+  <div class="carousel-item" id="nine9"><img src="https://cdn01.pharmeasy.in/dam/products_otc/I44880/acne-uv-spf-50-gel-50gm-1-1669711072.jpg?dim=1440x0" style="width: 150px;height: 140px;"> 
+    <h4><b>Acne Uv Spf 50 Gel<br>50gm</b></h4>
+    <p>MRP <del>Rs.875.00</del></p>
+    <p><b>Rs.743.75  <span style="color:red ;">15% OFF</span></b></p>
+  </div>
+
+
+
+  <div class="carousel-item" id="ten10">
+  <img src="https://cdn01.pharmeasy.in/dam/products_otc/192351/i-pill-emergency-contraceptive-pill-2-1672279640.jpg?dim=1440x0" style="width: 150px;height: 140px;padding-left: 35px;padding-right: 35px;">
+    <h4><b>I Pill Emergency<br>Contraceptive Pill</b></h4>
+    <p>MRP <del>Rs.110.00</del></p>
+    <p><b>Rs.99.00  <span style="color:red ;">10% OFF</span></b></p>
+  </div>
+
+
+
+  <div class="carousel-item" id="leven11"><img src="https://cdn01.pharmeasy.in/dam/products_otc/031531/calcimax-500-health-supplement-tablets-500-mg-of-calcium-box-of-30-2-1671741223.jpg?dim=1440x0"style="width: 150px;height: 140px; padding-top:35px;padding-bottom:35px;" >
+    <h4><b>Calcimax 500 Health<br>Supplement Tablets...</b></h4>
+    <p>MRP <del>Rs.380.00</del></p>
+    <p><b>Rs.323.00  <span style="color:red ;">15% OFF</span></b></p>
+  </div>
+
+
+  <div class="carousel-item" id="twelve12"><img src="https://cdn01.pharmeasy.in/dam/products_otc/177755/unwanted-72-strip-of-1-tablet-2-1669655391.jpg?dim=1440x0"style="width: 150px;height: 140px; padding-top:35px;padding-bottom:35px;">
+    <h4><b>Unwanted 72 Strip Of 1<br>Tablet</b></h4>
+    <p>MRP <del>Rs.110.00</del></p>
+    <p><b>Rs.93.50  <span style="color:red ;">15% OFF</span></b></p>
+  </div>
+
+
+  <div class="carousel-item" id="thirteen13"><img src="https://cdn01.pharmeasy.in/dam/products_otc/266249/depura-60000-iu-vitamin-d3-oral-solution-helps-bones-healthy-aids-in-boosting-immunity-sugarfree-2-1671740957.jpg?dim=1440x0"style="width: 150px;height: 140px;" >
+    <h4><b>Depura 60000 Iu<br>Vitamin D3 Oral...</b></h4>
+    <p>MRP <del>Rs.94.99</del></p>
+    <p><b>Rs.82.64  <span style="color:red ;">13% OFF</span></b></p>
+  </div>
+</div>
