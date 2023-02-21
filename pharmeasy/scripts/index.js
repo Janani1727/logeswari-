@@ -59,10 +59,15 @@ displayNewLaunch(newlaunchdata)
 
 function displayNewLaunch(newlaunchdata){
     let container1=document.getElementById("newlaunches")
-    newlaunchdata.forEach((el) => {
+    newlaunchdata.forEach((el,index) => {
         
     let card=document.createElement("div")
      card.setAttribute("id","card")
+     card.addEventListener("click",function(){
+        localStorage.setItem("productlist",JSON.stringify(newlaunchdata[index]))
+        window.location.href="product.html"
+    })
+    
 
      let image=document.createElement("img")
      image.src=el.img
@@ -78,6 +83,8 @@ function displayNewLaunch(newlaunchdata){
 
      card.append(image,tit,pri,offer)
      container1.append(card)
+
+    
     });
  
 }
