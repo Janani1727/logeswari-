@@ -20,7 +20,7 @@ let newlaunch=[
     {
         img:"https://cdn01.pharmeasy.in/dam/products_otc/192351/i-pill-emergency-contraceptive-pill-2-1672279640.jpg?dim=1440x0",
         title:"I Pill Emergency Contraceptive Pill"   ,
-         price:" MRP Rs.110",
+         price:" MRP Rs.10",
          off:"10% OFF" 
     },
     {
@@ -38,13 +38,13 @@ let newlaunch=[
     {
         img:"https://cdn01.pharmeasy.in/dam/products_otc/192351/i-pill-emergency-contraceptive-pill-2-1672279640.jpg?dim=1440x0",
         title:"I Pill Emergency Contraceptive Pill"   ,
-         price:" MRP Rs.110",
+         price:" MRP Rs.180",
          off:"10% OFF" 
     },
     {
         img:"https://cdn01.pharmeasy.in/dam/products_otc/192351/i-pill-emergency-contraceptive-pill-2-1672279640.jpg?dim=1440x0",
         title:"I Pill Emergency Contraceptive Pill"   ,
-         price:" MRP Rs.110",
+         price:" MRP Rs.810",
          off:"10% OFF" 
     }
 ]
@@ -88,3 +88,11 @@ function displayNewLaunch(newlaunchdata){
     });
  
 }
+const lh=()=>{
+    // console.log("LH");
+    let sortdata = newlaunch.sort(function(a,b){
+        return a.price - b.price ;
+      });
+      console.log(sortdata)
+   displayNewLaunch(sortdata);
+    }

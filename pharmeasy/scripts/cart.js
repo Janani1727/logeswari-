@@ -13,9 +13,13 @@ function cartproduct(el){
    
     let card=document.createElement("div")
      card.setAttribute("id","card")
+     card.style.border="1px solid black"
+     card.style.width="400px"
     
      let image=document.createElement("img")
      image.src=el.img
+     image.style.width="200px"
+     image.style.height="200px"
 
      let tit=document.createElement("h3")
      tit.innerText=el.title
@@ -28,16 +32,7 @@ function cartproduct(el){
 
      
 
-     let addcart=document.createElement("button")
-     addcart.innerText="Delete"
-
-
-    //  addcart.addEventListener("click",function(){
-      
-     
-    // })
-
-     card.append(image,tit,pri,offer,addcart)
+     card.append(image,tit,pri,offer)
      box.append(card)
 
   

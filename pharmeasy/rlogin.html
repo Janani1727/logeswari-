@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <input type="email" id="emai" placeholder="enter email">
+    <input type="text" id="passwor" placeholder="enter password">
+    <button onclick="login()">login</button>
+</body>
+</html>
+
+<script>
+
+    function login (){
+        let email1=document.getElementById("emai").value
+        let password1=document.getElementById("passwor").value
+
+        let email2=JSON.parse(localStorage.getItem("email"))
+        let password2=JSON.parse(localStorage.getItem("password"))
+
+        if(email1 === email2 && password1 === password2){
+            alert("login successful")
+        }
+        else{
+            alert("login failed")
+        }
+    }
+</script>

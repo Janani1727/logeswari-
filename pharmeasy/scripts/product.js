@@ -6,7 +6,8 @@ displayproduct(productdata)
 
 
 function displayproduct(el){
-    console.log(el)
+
+    // console.log(el)
 
     let box=document.getElementById("product")
     box.innerHTML=null
@@ -14,6 +15,13 @@ function displayproduct(el){
     let card=document.createElement("div")
      card.setAttribute("id","card")
     
+     let left=document.createElement("div")
+     left.setAttribute("id","left")
+
+     let right=document.createElement("div")
+     right.setAttribute("id","right")
+    
+
      let image=document.createElement("img")
      image.src=el.img
 
@@ -36,8 +44,12 @@ function displayproduct(el){
         localStorage.setItem("cartlist",JSON.stringify(productdata))
      
     })
+      
+    left.append(image)
 
-     card.append(image,tit,pri,offer,addcart)
+    right.append(tit,pri,offer,addcart)
+    
+     card.append(left,right)
      box.append(card)
 
   
