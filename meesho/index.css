@@ -1,0 +1,51 @@
+#main{
+    border:1px solid rgb(207, 45, 72);
+    width:100%;
+    height:auto;
+    
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 20px;
+}
+
+
+#card{
+    border:1px solid rgb(207, 45, 72);
+    width:100%;
+    height: 380px;
+    margin: auto;
+    
+}
+
+#card img{
+    width:70%;
+    height: 50%;
+    display: block;
+    margin: auto;
+}
+
+#card h3{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+#card2{
+    border:1px solid rgb(207, 45, 72);
+    width:30%;
+    height: 380px;
+    margin: auto;
+    
+}
+
+#card2 img{
+    width:70%;
+    height: 50%;
+    display: block;
+    margin: auto;
+}
+
+#card2 h3{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
