@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react'
 import "../styles/camera.css"
 
 
+
 const Camera = () => {
 
     const [data,setData] = useState([])
@@ -18,6 +19,12 @@ const Camera = () => {
         fetchData()
     },[])
 
+    const addtocart=(id)=>{
+      // console.log(id)
+      localStorage.setItem('prodId', JSON.stringify(id))
+    
+    }
+
   return (
 
   <div id="main">
@@ -28,7 +35,8 @@ const Camera = () => {
        {
         data.map((el)=>{
           return(
-            <div id="card" key={el.id}>
+            <div id="card" key={el.id} onClick={()=>addtocart(el.id)}>
+
             <img src={el.img} alt="" />
             <h4>{el.name}</h4>
             <p>{el.price}</p>
